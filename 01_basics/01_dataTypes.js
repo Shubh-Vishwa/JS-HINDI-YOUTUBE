@@ -29,7 +29,7 @@ let isloggin = true
 // console.log(str);
 
 // DatatType Check
-// 1> typeof => this is basically used for checking the datatype 
+// 1> typeof or typeof() => this is basically used for checking the datatype 
 
 console.log(typeof undefined);//undefined basically khud me hi type hai 
 // output:undefined 
@@ -37,5 +37,4 @@ console.log(typeof null); // null  is basically a object
 //output : object
 
 
-
-
+ 

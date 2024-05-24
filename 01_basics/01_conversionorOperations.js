@@ -67,6 +67,24 @@ let userName = n1 + name
 console.log(userName); // 23shubhu (which a typeof String)
 
 
+// some arithmetic operation
+let val = -2 
+console.log(val)
+console.log(-val)
+console.log(2+4)
+console.log(2-4)
+console.log(2*3)
+console.log(2**4)
+console.log(14/4)
+console.log(35%4)
+
+
+
+
+
+
+
+
 
 
 
