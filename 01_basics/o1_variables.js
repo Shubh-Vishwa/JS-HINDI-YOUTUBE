@@ -13,7 +13,7 @@ accountEmail = "shubhu@gmail.com"
 accountPassword = "7830327"
 console.table([accountEmail,accountId,accountPassword,accountState]);
 
-/*
+/* 
 Prefer not to use the  var because of its block scope and functional scope.
  */
 
