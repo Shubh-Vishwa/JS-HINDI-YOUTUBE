@@ -89,11 +89,41 @@ console.log(true) // true
 console.log(false) // false 
 
 
+/**
+ * Let study about the prefix and the postfix operation.
+ */
+
 // GAMECOUNTER 
 let gameCounter =  100
 ++gameCounter
 
-console.log(gameCounter)
+console.log(gameCounter)//101
+console.log(--gameCounter)//100
+console.log(gameCounter--)//100
+//  but in case of the postfix here the value became now 99.
+console.log(gameCounter)//99
+
+
+let x = 3;
+const y = x++;
+
+console.log(`x:${x}, y:${y}`);
+// Expected output: "x:4, y:3"
+
+let a = 3;
+const b = ++a;
+
+console.log(`a:${a}, b:${b}`);
+// Expected output: "a:4, b:4"
+
+
+/**
+ * for to get the brief knowledge visit this website .
+ * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
+ * practice the snippet given over there on your loval machine.
+ */
+
+
 
 
 
