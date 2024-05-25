@@ -79,17 +79,21 @@ console.log(14/4)
 console.log(35%4)
 
 
+/**
+ * when we need to get  numeric value from the  
+ * boolean value then we can use this method of getting  numeric value .
+ */
+console.log(+true) // 1
+console.log(+false) // 0
+console.log(true) // true
+console.log(false) // false 
 
 
+// GAMECOUNTER 
+let gameCounter =  100
+++gameCounter
 
-
-
-
-
-
-
-
-
+console.log(gameCounter)
 
 
 
