@@ -62,4 +62,3 @@ console.log(Math.floor(Math.random()*10) + 1);
 const min = 10
 const max = 20
 console.log(Math.floor(Math.random() * (max - min + 1)) + min)//THIS IS THE APPROACH FOR TO   GENERATE THE RANDOM NUMBER BETWEEN THE GIVEN MAX AND MIN  NUMBER .
-
