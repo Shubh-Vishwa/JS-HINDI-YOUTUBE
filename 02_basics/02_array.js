@@ -32,5 +32,4 @@ console.log(Array.from({name: "hitesh"}))//output :=> [] // interesting for the 
  * here it gives an  empty array because it could not specify  niether the key nor the value , So it return the empty array so here we need to  specify the key or value to
  *  convert them into array.
  */
-
-
+ 
